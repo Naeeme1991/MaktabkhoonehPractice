@@ -1,0 +1,17 @@
+.mainContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 90%;
+    margin: auto;
+}
+
+.btnComponentController{
+    margin: 40px 0;
+    display: flex;
+    /* flex-wrap: wrap; */
+}
+.btnComponentController button{
+    /* flex : 1 1 120px; */
+}
